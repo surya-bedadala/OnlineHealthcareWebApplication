@@ -1,0 +1,6 @@
+.bg-img {
+            background-image: url(
+"jyoth.gif");
+            min-height: 380px;
+            background-size: cover;
+        }

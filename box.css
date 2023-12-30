@@ -1,0 +1,46 @@
+.service-icon {
+  text-align: center;
+  height: 156px;
+}
+
+.service-icon img {
+  display: inline-block;
+  max-width: 310px;
+  height: 156px;
+  vertical-align: middle;
+  padding: 20px 0;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 35px 0 25px;
+  font-weight: 800;
+  color: white;
+  text-transform: uppercase;
+}
+
+.hoverServices:hover {
+  background-color: black;
+}
+
+@media (min-width: 878px) {
+  .services-box {
+    margin-right: 0;
+    border: 4px solid black;
+    border-left: 4;
+    border-top: 4;
+    height: 355px;
+  }
+
+  .services-box.last {
+    border-right: 4;
+  }
+}
+ul{
+font-family: Verdana;
+font-size: 120%;
+color: white;
+}
+a{
+color: white;
+text-align: center;

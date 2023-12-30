@@ -1,0 +1,54 @@
+.review .review-slider{
+  padding-bottom: 2rem;
+}
+
+.review .box{
+  padding:2rem;
+  text-align: center;
+  box-shadow: 0 1rem 2rem rgba(0,0,0,0);
+  border-radius: .5rem;
+}
+
+.review .box img{
+  height:13rem;
+  width:13rem;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.review .box h3{
+  color: red;
+  font-size: 2.5rem;
+}
+
+.review .box p{
+  color: darkgoldenrod;
+  font-size: 1.5rem;
+  padding:1rem 0;
+}
+
+.review .box .stars i{
+  color:var(--orange);
+  font-size: 1.7rem;
+}
+.btn {
+            padding: 8px 20px;
+            margin: 5px 0;
+            border: 2px solid navy;
+            border-radius: 8px;
+            background: lightblue;
+            color: black;
+            cursor: pointer;
+        }
+  
+        .btn-sm {
+            padding: 6px 10px;
+            vertical-align: middle;
+        }
+  
+        .center {
+            text-align: center;
+        }
+
+
